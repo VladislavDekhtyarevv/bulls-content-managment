@@ -1,0 +1,5 @@
+version: '2'
+services:
+  nasacademy_web:
+        ports:
+            - "45271:80"
