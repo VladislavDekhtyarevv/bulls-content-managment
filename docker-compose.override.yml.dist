@@ -1,5 +1,5 @@
 version: '2'
 services:
-  nasacademy_web:
+  bulls_cms_web:
         ports:
             - "45271:80"

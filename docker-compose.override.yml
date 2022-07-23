@@ -2,4 +2,4 @@ version: '2'
 services:
   bulls_cms_web:
         ports:
-            - "45273:80"
+            - "45271:80"
