@@ -1,6 +1,6 @@
 FROM redis:4.0.6
 
-MAINTAINER Stanislav Ashykhmin <ashykhminstanislav@gmail.com>
+MAINTAINER Dehtarev Vladislav <dehtarevvladislav@gmail.com>
 
 ARG HOST_UID=1000
 

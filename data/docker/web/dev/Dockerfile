@@ -1,5 +1,5 @@
 FROM php:8.0-apache
-MAINTAINER Vitaliy Svyrydov <svyrydov.vitaliy@gmail.com>
+MAINTAINER Dehtarev Vladislav <dehtarevvladislav@gmail.com>
 ARG HOST_UID=1000
 VOLUME ["/var/www/html"]
 ENV DEBIAN_FRONTEND noninteractive

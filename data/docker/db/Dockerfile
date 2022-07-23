@@ -1,7 +1,7 @@
 #FROM mysql:8.0.3
 FROM mariadb:10.5
 
-MAINTAINER Stanislav Ashykhmin <ashykhminstanislav@gmail.com>
+MAINTAINER Dehtarev Vladislav <dehtarevvladislav@gmail.com>
 
 ARG HOST_UID=1000
 

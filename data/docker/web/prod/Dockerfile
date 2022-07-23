@@ -1,6 +1,6 @@
 FROM php:8.1-apache
 
-MAINTAINER Stanislav Ashykhmin <ashykhminstanislav@gmail.com>
+MAINTAINER Dehtarev Vladislav <dehtarevvladislav@gmail.com>
 
 ARG HOST_UID=1000
 
