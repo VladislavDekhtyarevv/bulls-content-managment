@@ -35,6 +35,10 @@ class RouteServiceProvider extends ServiceProvider
 
             Route::middleware('web')
                 ->group(base_path('routes/web.php'));
+
+            //TODO: change middleware
+            Route::middleware('web')->name('cms.')
+                ->group(base_path('routes/cms.php'));
         });
     }
 
